@@ -1295,5 +1295,17 @@
       730,
       1372
     ]
+  },
+  {
+    "Name": "妖星乱舞绝境战P2 宝宝椅一套&自动移动 RyougiMio框架改装版",
+    "Guid": "87e770a3-1a69-4278-8da4-3b07cc73bf07",
+    "Version": "0.1.3.0",
+    "Author": "llllinkz",
+    "DownloadUrl": "https://raw.githubusercontent.com/Karlin-Z/KodakkuAssistScriptLibrary/main/llllinkz/%E5%A6%96%E6%98%9F%E4%B9%B1%E8%88%9E%E7%BB%9D%E5%A2%83%E6%88%98P2%20%E5%AE%9D%E5%AE%9D%E6%A4%85%E4%B8%80%E5%A5%97%26%E8%87%AA%E5%8A%A8%E7%A7%BB%E5%8A%A8%20RyougiMio%E6%A1%86%E6%9E%B6%E6%94%B9%E8%A3%85%E7%89%88.cs",
+    "Note": "在RyougiMio佬的框架基础上修改而来，融合了灵视佬和洛神宝宝椅的逻辑。感谢各位大佬。\n设置中可选宝宝椅打法：原版（分摊在两侧）/ 近战优化（分摊在前方）。\n自动移动：使用需开启PromeRotation，移动前可设延迟 0~1000ms。\n指挥模式：每轮后半段显示攻击1~4、禁止1~2、锁链1~2。\n请勿与其它P2遗弃末世指路同时开启。",
+    "UpdateTime": "2026-10-20T15:12:17Z",
+    "TerritoryIds": [
+      1363
+    ]
   }
 ]
